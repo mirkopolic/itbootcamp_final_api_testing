@@ -1,6 +1,6 @@
 # itbootcamp_final_api_testing
 
-https://www.getpostman.com/collections/0e7fe948e20684dcc6b0
+https://documenter.getpostman.com/view/23501811/2s8479zGay
 
 ""Features
 
